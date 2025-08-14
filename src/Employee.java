@@ -6,7 +6,7 @@ public class Employee {
 
         name="John Doe";
         employee_ID=1001;
-        salary=75000.0;
+        salary=76000.0;
         System.out.println("name: "+name+"employee_ID: "+employee_ID+"salary: "+ salary);
 
     }
